@@ -1,6 +1,6 @@
 # Web vs Flutter: feature parity
 
-Reference: the SvgaGifts web player. Status legend: **same** = same behaviour, **adapted** = same behaviour through a platform-natural API, **n/a** = a web-only concept with no meaning on mobile.
+Reference: the Gift Player web player. Status legend: **same** = same behaviour, **adapted** = same behaviour through a platform-natural API, **n/a** = a web-only concept with no meaning on mobile.
 
 ## Public API
 

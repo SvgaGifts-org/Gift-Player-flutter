@@ -1,4 +1,4 @@
-package com.svgagifts.gift_player_flutter
+package com.giftplayer.gift_player_flutter
 
 import android.graphics.Bitmap
 import android.graphics.BitmapFactory

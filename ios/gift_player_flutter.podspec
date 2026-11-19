@@ -4,14 +4,14 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'gift_player_flutter'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'Play SVGA, GIF, WebP and PAG gifts in Flutter.'
   s.description      = <<-DESC
 Native half of the gift_player_flutter Flutter plugin: PAG playback through libpag (Metal), rendered into a Flutter texture.
                        DESC
   s.homepage         = 'https://github.com/SvgaGifts-org/Gift-Player-flutter'
   s.license          = { :type => 'MIT', :file => '../LICENSE' }
-  s.author           = { 'SvgaGifts' => 'svgagifts@gmail.com' }
+  s.author           = 'Gift Player'
   s.source           = { :path => '.' }
   s.source_files     = 'Classes/**/*.{swift,h,m}'
   s.dependency 'Flutter'

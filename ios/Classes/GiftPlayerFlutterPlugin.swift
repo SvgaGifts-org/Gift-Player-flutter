@@ -14,7 +14,7 @@ import libpag
 public class GiftPlayerFlutterPlugin: NSObject, FlutterPlugin {
   private let registrar: FlutterPluginRegistrar
   private let textures: FlutterTextureRegistry
-  private let work = DispatchQueue(label: "com.svgagifts.pag")
+  private let work = DispatchQueue(label: "com.giftplayer.pag")
   private var instances = [Int: PagInstance]()  // only touched on `work`
   private var nextId = 1
 

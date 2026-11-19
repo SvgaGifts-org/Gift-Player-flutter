@@ -1,4 +1,4 @@
-group = "com.svgagifts.gift_player_flutter"
+group = "com.giftplayer.gift_player_flutter"
 version = "1.0-SNAPSHOT"
 
 buildscript {
@@ -26,7 +26,7 @@ plugins {
 }
 
 android {
-    namespace = "com.svgagifts.gift_player_flutter"
+    namespace = "com.giftplayer.gift_player_flutter"
 
     compileSdk = 36
 

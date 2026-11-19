@@ -1,6 +1,6 @@
 /// Play animated gift files through one API: **SVGA** (1.x and 2.x), **GIF**, **animated and static WebP**, and **PAG**.
 ///
-/// Flutter version of the SvgaGifts web player: [GiftPlayer] (load / play / pause / replace text and images), [GiftQueue]
+/// Flutter version of the Gift Player web player: [GiftPlayer] (load / play / pause / replace text and images), [GiftQueue]
 /// (priorities, preloading, combos), an [AssetCache], and the widgets [GiftPlayerView], [GiftPlayerSurface] and [GiftQueueController].
 library;
 
@@ -79,4 +79,4 @@ export 'src/svga/decode_images.dart'
     show decodeSvgaImages, releaseSvgaImages, DecodedSvgaImages;
 
 /// The version of this plugin (a test checks it equals `pubspec.yaml`).
-const String giftPlayerVersion = '0.1.0';
+const String giftPlayerVersion = '0.1.1';

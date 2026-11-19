@@ -2,11 +2,11 @@
 
 Play animated gift files through one API on **Android and iOS**: **SVGA** (1.x and 2.x), **GIF**, **animated and static WebP**, and **PAG**. A queue for live streams, a cache, text and picture replacement, typed errors.
 
-This is the Flutter version of the SvgaGifts web player and follows its API and behaviour. [PARITY.md](PARITY.md) compares the two feature by feature and says what has and has not been verified.
+This is the Flutter version of the Gift Player web player and follows its API and behaviour. [PARITY.md](PARITY.md) compares the two feature by feature and says what has and has not been verified.
 
 ```yaml
 dependencies:
-  gift_player_flutter: ^0.1.0
+  gift_player_flutter: ^0.1.1
 ```
 
 * Flutter 3.44+, Dart 3.12+, Android `minSdk 24`, iOS 13+.

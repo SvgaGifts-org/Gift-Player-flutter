@@ -228,7 +228,7 @@ class _LiveRoomPageState extends State<LiveRoomPage> {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     const Text(
-                      'SvgaGifts Live',
+                      'Gift Player Live',
                       maxLines: 1,
                       overflow: TextOverflow.ellipsis,
                       style: TextStyle(

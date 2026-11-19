@@ -1,4 +1,4 @@
-package com.svgagifts.gift_player_flutter_example
+package com.giftplayer.gift_player_flutter_example
 
 import io.flutter.embedding.android.FlutterActivity
 

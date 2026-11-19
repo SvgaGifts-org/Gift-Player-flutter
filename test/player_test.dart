@@ -946,6 +946,6 @@ void main() {
   });
 
   test('the version constant matches pubspec.yaml', () {
-    expect(giftPlayerVersion, '0.1.0');
+    expect(giftPlayerVersion, '0.1.1');
   });
 }

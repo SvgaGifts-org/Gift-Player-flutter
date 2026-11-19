@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.1
+
+* Removed old brand name from docs, example app and native ids (Android package and iOS bundle id are now `com.giftplayer.*`).
+
 ## 0.1.0
 
 First release of `gift_player_flutter`: play SVGA, GIF, WebP and PAG gifts on Android and iOS.

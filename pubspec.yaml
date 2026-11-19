@@ -1,6 +1,6 @@
 name: gift_player_flutter
 description: "Play animated gift files (SVGA, GIF, WebP, PAG) through one API, with a queue for live streams. For Android and iOS."
-version: 0.1.0
+version: 0.1.1
 homepage: https://github.com/SvgaGifts-org/Gift-Player-flutter
 repository: https://github.com/SvgaGifts-org/Gift-Player-flutter
 issue_tracker: https://github.com/SvgaGifts-org/Gift-Player-flutter/issues
@@ -36,7 +36,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.svgagifts.gift_player_flutter
+        package: com.giftplayer.gift_player_flutter
         pluginClass: GiftPlayerFlutterPlugin
       ios:
         pluginClass: GiftPlayerFlutterPlugin
